@@ -1,4 +1,4 @@
-package com.sunbeam.rocketmqdemo.commonmeg;
+package com.sunbeam.rocketmqdemo.commonmsg;
 
 import org.apache.rocketmq.client.consumer.DefaultMQPushConsumer;
 import org.apache.rocketmq.client.consumer.listener.ConsumeConcurrentlyContext;
